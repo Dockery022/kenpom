@@ -1,0 +1,19 @@
+# Setuptools distribution folder.
+/dist/
+
+/build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# Testing notebooks, etc.
+/*.ipynb
+/.ipynb_checkpoints/
+__pycache__/
+/.sos/
+
+# Node dependencies
+node_modules/
+
+# Compiled docs (large binary assets)
+docs/_build/

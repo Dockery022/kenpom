@@ -1,0 +1,12 @@
+pandas
+bs4
+sphinx>2.2.0
+cloudscraper
+lxml
+beautifulsoup4
+cloudscraper
+lxml
+mechanicalsoup
+pandas
+discord.py
+python-dotenv
